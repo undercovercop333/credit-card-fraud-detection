@@ -53,7 +53,7 @@ This project focuses on detecting fraudulent transactions using machine learning
 - Features scaled using `StandardScaler` before fitting into the classifier.
 - Slight performance improvement and better generalization.
 
-#### C. XGBoost Classifier (Optional)
+#### C. XGBoost Classifier
 - Can be trained if `xgboost` package is installed.
 - Generally achieves better performance with imbalanced datasets.
 
